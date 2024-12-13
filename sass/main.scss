@@ -1,0 +1,11 @@
+@use "./colors" as *;
+@use "./animations" as *;
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+p{
+  width: 50px;
+}
